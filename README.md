@@ -1,6 +1,6 @@
 # `<User Identity Linkage across Social Media via Attentive Time-aware User Modeling>`
 
-> `<One-sentence summary of the paper or project>`
+> `UserNet: An attentive time-aware framework for user identity linkage across social media, featuring temporal post correlation modeling and a newly released large-scale multimodal dataset.`
 
 ## Authors
 
@@ -40,7 +40,7 @@
 
 ## Updates
 
-> - [MM/YYYY] Initial release of the UserNet implementation.
+> - [07/2019] Initial release of the UserNet implementation.
 
 ---
 
@@ -64,14 +64,12 @@ This repository provides the official implementation, and dataset.
 
 ## Method / Framework
 
-你可以在这里放方法框架图、模型结构图或整体 pipeline 图。
-
 ### Framework Figure
 
 ```markdown
 ![Framework](./assets/framework.png)
 ```
-**Figure 1.** Overall framework of `<Method Name>`.
+**Figure 1.** Overall framework of UserNet.
 
 ---
 
@@ -126,9 +124,6 @@ python Time-M2M-Thread.py
 ```
 
 ## Citation
-
-如果你的项目对应论文，请提供 BibTeX：
-
 ```bibtex
 @ARTICLE{9246515,
   author = {Chen, Xiaolin and Song, Xuemeng and Cui, Siwei and Gan, Tian and Cheng, Zhiyong and Nie, Liqiang},
